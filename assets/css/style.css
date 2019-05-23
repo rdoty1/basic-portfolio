@@ -1,0 +1,85 @@
+body {
+    width: auto;
+    height: 1255px;
+    background-color: grey
+}
+
+.container {
+    background-color: yellow;
+    width: auto;
+    height: 150px;
+}
+
+.yourName {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 200px;
+    height: 75px;
+    margin-top: 75px;
+    margin-left: 300px;
+    float: left;
+}
+
+.about {
+    color: #777777;
+    font-size: 14px;
+    float: right;
+    padding: 10px;
+    margin-top: 75px;
+}
+
+.portfolio {
+    color: #777777;
+    font-size: 14px;
+    float: right;
+    padding: 10px;
+    margin-top: 75px;
+}
+
+.contact {
+    color: #777777;
+    font-size: 14px;
+    float: right;
+    padding: 10px;
+    margin-top: 75px;
+}
+
+.containerTwo {
+    width: 1000px;
+    height: 960px;
+    background-color: white;
+    margin-left: 300px;
+}
+
+.aboutMe {
+    float: left;
+    margin-left: 50px;
+}
+
+.img {
+    height: 150px;
+    width: 150px;
+    padding-top: 70px;
+    margin-left: -138px;
+    padding-right: 25px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.mainParagraph {
+    padding-top: 65px;
+    padding-left: 30px;
+    border-top: solid;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
