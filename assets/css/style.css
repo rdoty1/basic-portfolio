@@ -260,3 +260,11 @@ textarea {
     /* Bottom margin */
     resize: vertical/* Allow the user to vertically resize the textarea (not horizontally) */
 }
+
+label {
+    background: #4aaaa5;
+    font-size: 20px;
+    margin-left: 10px;
+    line-height: 79px;
+    color: white;
+}
